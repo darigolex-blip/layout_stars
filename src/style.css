@@ -2,11 +2,6 @@ body {
   margin: 0;
 }
 
-.container {
-  padding: 32px 22px;
-  background-color: #fff;
-}
-
 .stars {
   display: flex;
 }
