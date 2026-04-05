@@ -1,6 +1,7 @@
 .stars {
   display: flex;
-  width: max-content;
+  width: 96px;
+  height: 16px;
 }
 
 .stars__star {
