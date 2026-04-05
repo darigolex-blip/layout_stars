@@ -1,5 +1,7 @@
 .stars {
   display: flex;
+  width: 96px;
+  height: 16px;
 }
 
 .stars__star {
@@ -8,6 +10,7 @@
   margin-right: 4px;
   background-image: url("./images/star.svg");
   background-repeat: no-repeat;
+  background-position: center;
 }
 
 .stars__star:last-child {
