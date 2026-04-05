@@ -8,11 +8,8 @@
   width: 16px;
   height: 16px;
   margin-right: 4px;
-  flex-shrink: 0;
   background-image: url("./images/star.svg");
   background-repeat: no-repeat;
-  background-position: center;
-  background-size: 16px 16px;
 }
 
 .stars__star:last-child {
