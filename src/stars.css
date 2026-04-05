@@ -10,7 +10,7 @@
   margin-right: 4px;
   background-image: url("./images/star.svg");
   background-repeat: no-repeat;
-  background-size: cover;
+  background-size: contain;
   background-position: center;
 }
 
